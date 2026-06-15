@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/StickNoteMR/Scenes/MXCombine_Final.unity
+    guid: a0d593c677e7f6547acaf60a7253dc17
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f2bf97b3acdb64248a707c407c9fc54e, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 7e71f79726efd1c41ad04f084ac4e776, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 0c18f4b4ce72e4a4c9fd65a46f6313b0, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: cd9c7c77bae89144a901ab7dc822803e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a971eac5e950046e586c5e153e32d05c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bce7c48d47ffedd41a1172ba685bb71a, type: 2}
+  m_UseUCBPForAssetBundles: 0
