@@ -1,6 +1,6 @@
 # MXRead Privacy Policy
 
-Last updated: [insert date]
+Last updated: 09-11-2026
 
 MXRead is a mixed reality reading application for Meta Quest. It allows users to highlight text, write or draw annotations, place virtual sticky notes, and record voice notes linked to physical book pages.
 
